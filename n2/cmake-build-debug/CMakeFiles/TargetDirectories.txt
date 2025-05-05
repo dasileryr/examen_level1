@@ -1,0 +1,3 @@
+/Users/dzadv/CLionProjects/n2/cmake-build-debug/CMakeFiles/n2.dir
+/Users/dzadv/CLionProjects/n2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dzadv/CLionProjects/n2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
